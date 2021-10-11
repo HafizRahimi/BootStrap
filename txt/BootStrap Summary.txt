@@ -41,7 +41,7 @@ Install bootstrap
 
 --------------------------------------------------------------------------------------------
 Video 2
-Typography in Bootstrap 1
+Typography in Bootstrap part-1
 
 bootstrap-reboot.min.css file and main.css file add:
 
@@ -69,7 +69,9 @@ index.html:
 
 --------------------------------------------------------------------------------------------
 Video 3
-Typography in Bootstrap 2
+Typography in Bootstrap part-2
+
+
 
 --------------------------------------------------------------------------------------------
 Video 4

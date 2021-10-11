@@ -125,3 +125,70 @@ index.html:
 
 --------------------------------------------------------------------------------------------
 Video 3
+Typography در بوت استرپ 4
+
+Alt + Shift + F    (moratab kanrdane code)
+
+1- class for text:
+
+    1- class="text-justify":
+        CSS:
+            p {
+                text-align: justify;
+                text-justify: inter-word;
+            }
+
+
+    2- class="text-nowrap":
+        CSS:
+            p{
+                white-space: nowrap;
+            }
+
+    3- class="text-center":
+       class="text-right":
+       class="text-left":
+       class="text-justify":
+        CSS:
+            p {
+                text-align: justify;
+                text-align: center;
+                text-align: right;
+                text-align: left;
+            }
+
+    4- Bootstrap grid system:
+        Extra small: xs   <576px
+        Small:       sm   >576px
+        Medium:      md   >768px
+        Large:       lg   >960px
+        Extra large: xl   >1200px
+
+        example:
+            text-lg-center
+
+
+    5- class="text-lowercase"
+        class="text-uppercase"
+        class="text-capitalize"
+
+        CSS:
+            p {
+                text-transform: lowercase;
+                text-transform: uppercase;
+                text-transform: capitalize;
+            }
+
+
+
+2- class for font:
+    1- class="font-weight-bold"
+    class="font-weight-normal"
+            
+    2- class="font-italic"
+
+
+
+
+--------------------------------------------------------------------------------------------
+Video 4
