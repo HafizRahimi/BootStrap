@@ -82,6 +82,8 @@ index.html:
 --------------------------------------------------------------------------------------------
 Video 2
 Typography در بوت استرپ 4
+    https://getbootstrap.com/docs/4.0/content/typography/
+
 
 Reboot css file Bootstrap:
     bootstrap-reboot.min.css
@@ -126,6 +128,8 @@ index.html:
 --------------------------------------------------------------------------------------------
 Video 3
 Typography در بوت استرپ 4
+    https://getbootstrap.com/docs/4.0/content/typography/
+
 
 Alt + Shift + F    (moratab kanrdane code)
 
@@ -189,6 +193,21 @@ Alt + Shift + F    (moratab kanrdane code)
 
 
 
-
 --------------------------------------------------------------------------------------------
 Video 4
+List and BlockQuote in Bootstrap
+    https://getbootstrap.com/docs/4.0/content/typography/
+
+ul class:
+    class="list-unstyled"
+
+li class:
+    class="list-inline-item"
+
+BlockQuote:
+    class="blockquote"
+    class="blockquote-footer"
+
+
+--------------------------------------------------------------------------------------------
+Video 5
