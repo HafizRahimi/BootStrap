@@ -211,3 +211,34 @@ BlockQuote:
 
 --------------------------------------------------------------------------------------------
 Video 5
+Colors in Bootstrap
+
+Text Color:
+    class="text-primary"        (اولیه)
+    class="text-secondary"      (ثانوی)
+    class="text-success"        (موفقیت)
+    class="text-danger"         (خطر)
+    class="text-warning"        (هشدار)
+    class="text-info"           (اطلاعات)
+    class="text-light"           
+    class="text-dark"           
+    class="text-muted"           
+    class="text-white"           
+
+Background Color:
+    class="bg-primary"        (اولیه)
+    class="bg-secondary"      (ثانوی)
+    class="bg-success"        (موفقیت)
+    class="bg-danger"         (خطر)
+    class="bg-warning"        (هشدار)
+    class="bg-info"           (اطلاعات)
+    class="bg-light"           
+    class="bg-dark"           
+    class="bg-muted"           
+    class="bg-white"  
+
+
+
+
+--------------------------------------------------------------------------------------------
+Video 6
