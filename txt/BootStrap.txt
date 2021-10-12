@@ -212,6 +212,7 @@ BlockQuote:
 --------------------------------------------------------------------------------------------
 Video 5
 Colors in Bootstrap
+    https://getbootstrap.com/docs/4.0/utilities/colors/
 
 Text Color:
     class="text-primary"        (اولیه)
@@ -242,3 +243,61 @@ Background Color:
 
 --------------------------------------------------------------------------------------------
 Video 6
+
+Images in Bootstrap
+
+https://getbootstrap.com/docs/4.0/content/images/
+
+1- Responsive images:
+    class="img-fluid"
+
+2- Image thumbnails:
+    class="img-thumbnail"
+
+3- Aligning images (Float): 
+    class="float-left"
+    class="float-right"
+
+
+https://getbootstrap.com/docs/4.4/utilities/borders/
+
+4- Border-radius:
+    class="rounded"
+    class="rounded-top"
+    class="rounded-right"
+    class="rounded-bottom"
+    class="rounded-left"
+    class="rounded-circle"
+    class="rounded-pill"
+    class="rounded-0"
+
+
+https://getbootstrap.com/docs/4.0/content/figures/
+
+5- Figures Tag
+    class="figure"
+
+6- img tag in Figure Tag
+    class="figure-img"
+
+7- Figcaption Tag in Figure Tag
+    class="figure-caption"
+
+Example:
+<figure class="figure">
+  <img src="..." class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+  <figcaption class="figure-caption">A caption for the above image.</figcaption>
+</figure>
+
+
+--------------------------------------------------------------------------------------------
+Video 7
+
+
+
+--------------------------------------------------------------------------------------------
+Video 8
+
+  
+--------------------------------------------------------------------------------------------
+Video 9
