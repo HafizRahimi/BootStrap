@@ -293,7 +293,9 @@ Example:
 --------------------------------------------------------------------------------------------
 Video 7
 Variables in Bootstrap 
-    bootstrap variable is in bootstrap.css 
+    bootstrap variable is in bootstrap.css and bootstrap.min.css
+
+    https://getbootstrap.com/docs/4.0/getting-started/theming/
 
 
 Create variable:
@@ -308,7 +310,27 @@ User variable:
 
 --------------------------------------------------------------------------------------------
 Video 8
+Grid system in Bootstrap
+    https://getbootstrap.com/docs/4.0/layout/grid/
 
-  
+
+0- container:
+    class="container"
+    class="container-fluid"
+
+1- Row (ردیف):
+    class="row"
+
+
+2- Columns (ستون ها): 12
+    class="col"         None (auto)     Extra small     <576px
+    class="col-sm-"     540px           Small           ≥576px
+    class="col-md-"     720px           Medium          ≥768px
+    class="col-lg-"     960px           Large           ≥992px
+    class="col-xl-"     1140px          Extra large     ≥1200px
+
+    class="col-xl-1" ==> class="col-xl-12"      12 columns has bootstrap
+
+
 --------------------------------------------------------------------------------------------
 Video 9
