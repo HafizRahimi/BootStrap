@@ -292,8 +292,19 @@ Example:
 
 --------------------------------------------------------------------------------------------
 Video 7
+Variables in Bootstrap 
+    bootstrap variable is in bootstrap.css 
 
 
+Create variable:
+    :root{
+        --nameVariable: valueVariable;
+        --Hafiz: #f403a9;
+    }
+
+User variable:
+    color: var(nameVariable)
+    color: var(--Hafiz)
 
 --------------------------------------------------------------------------------------------
 Video 8
