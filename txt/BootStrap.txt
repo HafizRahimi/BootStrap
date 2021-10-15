@@ -364,6 +364,30 @@ Grid system in Bootstrap
 --------------------------------------------------------------------------------------------
 Video 10
 
+Grid system in Bootstrap
+    https://getbootstrap.com/docs/4.0/layout/grid/
+
+
+1- Reordering (مرتب سازی مجدد): Order
+    class="order-3"
+
+    class="order-0" ==> class="order-12"
+
+
+Alignment(هم ترازی)
+
+2- Vertical alignment(تراز عمودی):
+    class="row align-items-start"
+    class="row align-items-center"
+    class="row align-items-end"
+
+3- Horizontal alignment(تراز افقی):
+    class="row justify-content-start"
+    class="row justify-content-center"
+    class="row justify-content-end"
+    class="row justify-content-around"
+    class="row justify-content-between"
+
 
 --------------------------------------------------------------------------------------------
 Video 11
