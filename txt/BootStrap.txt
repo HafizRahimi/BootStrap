@@ -391,6 +391,26 @@ Alignment(هم ترازی)
 
 --------------------------------------------------------------------------------------------
 Video 11
+Position in Bootstrap
+    https://getbootstrap.com/docs/4.0/utilities/position/
+
+1- Fixed top:
+    class="fixed-top">
+
+2- Fixed bottom:
+    class="fixed-bottom">
+
+3- Sticky top:
+    class="sticky-top">
+
+Display property
+    https://getbootstrap.com/docs/4.0/utilities/display/
+
+4- Display inline:
+    class="d-inline"
+
+5- Display block:
+    class="d-block"
 
 
 --------------------------------------------------------------------------------------------
@@ -399,6 +419,9 @@ Video 12
 
 --------------------------------------------------------------------------------------------
 Video 13
+
+
+
 
 
 --------------------------------------------------------------------------------------------
