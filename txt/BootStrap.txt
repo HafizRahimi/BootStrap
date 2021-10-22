@@ -415,7 +415,28 @@ Display property
 
 --------------------------------------------------------------------------------------------
 Video 12
+Position in Bootstrap
 
+Flex 
+    https://getbootstrap.com/docs/4.0/utilities/flex/
+
+
+1- display: flex;
+    d-flex
+
+2- flex-column
+
+3- flex-row
+
+4- flex-row-reverse
+
+5- justify-content-around
+
+6- flex-wrap
+   flex-nowrap
+
+7- align-content-around
+   align-content-start
 
 --------------------------------------------------------------------------------------------
 Video 13
